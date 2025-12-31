@@ -1,0 +1,7 @@
+{
+  "Checks": [
+    "check-style",
+    "check-format",
+    "check-security"
+  ]
+}
